@@ -1,6 +1,6 @@
 package com.qinsol.insbot.configuration.service.impl;
 
-import com.qinsol.insbo.commons.CompanyConfigDto;
+import com.qinsol.insbot.commons.CompanyConfigDto;
 import com.qinsol.insbot.configuration.converter.CompanyConfigConverter;
 import com.qinsol.insbot.configuration.entity.CompanyConfig;
 import com.qinsol.insbot.configuration.repository.CompanyRepository;

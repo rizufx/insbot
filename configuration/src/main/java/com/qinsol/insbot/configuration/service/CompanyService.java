@@ -1,7 +1,7 @@
 package com.qinsol.insbot.configuration.service;
 
 
-import com.qinsol.insbo.commons.CompanyConfigDto;
+import com.qinsol.insbot.commons.CompanyConfigDto;
 import com.qinsol.insbot.configuration.entity.CompanyConfig;
 import org.springframework.stereotype.Service;
 

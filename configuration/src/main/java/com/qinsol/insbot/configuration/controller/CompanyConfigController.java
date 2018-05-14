@@ -1,6 +1,6 @@
 package com.qinsol.insbot.configuration.controller;
 
-import com.qinsol.insbo.commons.CompanyConfigDto;
+import com.qinsol.insbot.commons.CompanyConfigDto;
 import com.qinsol.insbot.configuration.converter.CompanyConfigConverter;
 import com.qinsol.insbot.configuration.service.CompanyService;
 import org.springframework.beans.factory.annotation.Autowired;

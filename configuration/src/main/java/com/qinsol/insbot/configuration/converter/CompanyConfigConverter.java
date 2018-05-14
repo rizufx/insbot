@@ -1,7 +1,7 @@
 package com.qinsol.insbot.configuration.converter;
 
-import com.qinsol.insbo.commons.CompanyConfigDto;
-import com.qinsol.insbo.commons.ProductOfferingDto;
+import com.qinsol.insbot.commons.CompanyConfigDto;
+import com.qinsol.insbot.commons.ProductOfferingDto;
 import com.qinsol.insbot.configuration.entity.CompanyConfig;
 import com.qinsol.insbot.configuration.entity.ProductOffering;
 
